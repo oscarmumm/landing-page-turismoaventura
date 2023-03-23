@@ -72,7 +72,7 @@ body {
 }
 
 .social-media-icon {
-  width: 30px;
+  width: 35px;
   filter: brightness(100);
   margin: .5rem;
   border-radius: 50%;
@@ -82,6 +82,11 @@ body {
   filter: brightness(1);
   filter: drop-shadow(0 0 10px #fff);
   background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
 .footer {
